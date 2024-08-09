@@ -1,5 +1,5 @@
 <div align="center">
-<h1>Dictation Daddy</h1>
+<h1>DictationDaddy</h1>
 </div>
 
 ## A more accurate dictation tool compared to Google, Siri, Otter, Windows and Mac's built-in dictation tool. It transcribes with higher accuracy and do modifications on text with voice.
