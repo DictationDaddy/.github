@@ -29,6 +29,8 @@ There is a lot of formatting that we need to do, making sure paragraphs are crea
 With DictationDaddy, I want to eliminate all of the unnecessary steps required to put the message across to others. Things like "attach my resume," "attach my last PDF," "schedule a meeting with Daniel" all this should be achieved by Voice.
 If everything goes correct, this can potentially replace keyboards and personal assistants for a lot of users and will become a single interface through which they will check their email, calendar, or interact with other people and tools on internet.
 
+The website is https://dictationdaddy.com/
+
 <!--
 
 **Here are some ideas to get you started:**
